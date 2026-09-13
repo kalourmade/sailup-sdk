@@ -13,8 +13,8 @@ delivery webhooks. See the per-language guide for install + quickstart.
 
 ## Status
 
-v1 covers the SMS API only. Contacts and Lists APIs are planned as
-additive follow-ups (see `docs/superpowers/specs/` for the roadmap).
+v1 covers the SMS API only. See [docs/ROADMAP.md](docs/ROADMAP.md) for
+what's planned next (Contacts, Lists, and an MCP server for AI agents).
 
 ## Releasing
 
